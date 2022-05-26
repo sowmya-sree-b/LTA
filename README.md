@@ -1,6 +1,4 @@
-# LTA
-
-# Legal Text Analysis
+# LTA: Legal Text Analysis
 
 This project is based on Legal documents. It has two aims and they are as follows
 1. Type of contract classification.
