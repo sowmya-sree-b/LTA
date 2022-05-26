@@ -13,3 +13,4 @@ This project is based on Legal documents. It has two aims and they are as follow
 * Feature extraction 
 * classification model 
 * Evaluation
+
