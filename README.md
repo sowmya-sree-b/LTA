@@ -17,4 +17,4 @@ This project is based on Legal documents. It has two aims and they are as follow
 ### Presentation: 
 
 ### Aim One
-Type of contract classification : (https://github.com/sowmya-sree-b/LTA/blob/main/contract_document_type.ipynb)
+[Type of contract classification : ](https://github.com/sowmya-sree-b/LTA/blob/main/contract_document_type.ipynb)
